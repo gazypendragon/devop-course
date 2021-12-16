@@ -1,1 +1,2 @@
 this hello world git class is killing me ooh
+making changes 2 try the stash command
